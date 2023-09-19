@@ -5,7 +5,7 @@ const Chai = () => {
 
   let addcount = () => {
     if (count === 20) {
-      setCount(count + 0);
+      setCount(count);
     } else {
       setCount(count + 1);
     }
@@ -13,7 +13,7 @@ const Chai = () => {
 
   let minuscount = () => {
     if (count === 0) {
-      setCount(count - 0);
+      setCount(count);
     } else {
       setCount(count - 1);
     }
