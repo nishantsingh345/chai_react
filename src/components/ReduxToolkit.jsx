@@ -1,7 +1,7 @@
 const ReduxToolkit = () => {
   return (
     <div>
-      <h1>Learn Redux tool-kit</h1>
+      <h1>Learn Redux tool-kit from react and chai</h1>
     </div>
   );
 };
