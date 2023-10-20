@@ -4,7 +4,7 @@ const Chai = () => {
   const [count, setCount] = useState(1);
 
   let addcount = () => {
-    if (count === 20) {
+    if (count === 30) {
       setCount(count);
     } else {
       setCount(count + 1);
