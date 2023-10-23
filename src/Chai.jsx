@@ -24,7 +24,7 @@ const Chai = () => {
       <h1>Count is ready {count}</h1>
       <button onClick={addcount}>count add</button>
       <br />
-      <button onClick={minuscount}>count minus</button>
+      <button onClick={minuscount}>count minus here</button>
     </>
   );
 };
